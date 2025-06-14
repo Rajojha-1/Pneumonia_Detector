@@ -1,0 +1,11 @@
+# Ignore virtual env
+.venv_tf/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
